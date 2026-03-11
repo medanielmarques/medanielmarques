@@ -17,6 +17,8 @@
 - ⏰ **[Toki](https://github.com/medanielmarques/timer.tokitoki.app)** - Pomodoro timer with white noise
 - 📖 **[Manga DB](https://github.com/medanielmarques/mangadb)** - Open source manga database
 - 🥚 **[Egghead](https://github.com/medanielmarques/egghead)** - Quick Next.js app template
+- 🚢 **[Fail to ship](https://github.com/medanielmarques/failtoship.com)** - Bingo card for devs failing to ship
+- 👩🏾‍🍳 **[Poneglyph](https://github.com/medanielmarques/poneglyph)** - Restaurant table booking app
 
 ## Connect
 
