@@ -11,6 +11,7 @@
 
 - 🍓 **[Dealberry](https://dealberry.me)** - CRM for content creators
 - 🔎 **[Search Comments](https://search-comments.netlify.app)** - Search through YouTube comments
+- 💼 **[danielmarqu.es](https://danielmarqu.es)** - Portfolio website
 ### Legacy Work
 - ✍️ **[Epic Script](https://epicscript.ai)** - AI script writer for content creators
 
