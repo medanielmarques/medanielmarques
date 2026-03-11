@@ -14,17 +14,7 @@
 ### Legacy Work
 - ✍️ **[Epic Script](https://epicscript.ai)** - AI script writer for content creators
 
-
-## What I'm Doing
-
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me)
-- **Rapid prototyping** - Full apps in days, not months
-- **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
-
 ## Connect
 
 [![X](https://img.shields.io/badge/-@medanielmarques-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/medanielmarques)
 [![LinkedIn](https://img.shields.io/badge/-Daniel‎_Marques-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmarquesdev)
-
----
