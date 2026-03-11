@@ -14,6 +14,8 @@
 - 💼 **[danielmarqu.es](https://danielmarqu.es)** - Portfolio website
 ### Legacy Work
 - ✍️ **[Epic Script](https://epicscript.ai)** - AI script writer for content creators
+- ⏰ **[Toki](https://tokitoki.app)** - Pomodoro timer with white noise
+- 📖 **[Manga DB](https://mangadb.io)** - Open source manga database
 
 ## Connect
 
