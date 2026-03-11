@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-📍 **Based in Brazil** | 👨🏽‍💻 **Senior Software Engineer** | 🚀 **Building Dealberry**
+🇧🇷 **Based in Brazil** | 👨🏽‍💻 **Senior Software Engineer** | 🍓 **Building Dealberry**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -10,7 +10,7 @@
 ## Current Projects
 
 - 🍓 **[Dealberry](https://dealberry.me)** - CRM for content creators
-- 🔎 **[Search Comments](https://search-comments.netlify.app)** - Search through YouTube comments
+- 🔎 **[Search Comments](https://search-comments.netlify.app)** - Search YouTube comments
 - 💼 **[danielmarqu.es](https://danielmarqu.es)** - Portfolio website
 ### Legacy Work
 - ✍️ **[Epic Script](https://epicscript.ai)** - AI script writer for content creators
