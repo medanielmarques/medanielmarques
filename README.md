@@ -16,7 +16,7 @@
 - ✍️ **[Epic Script](https://epicscript.ai)** - AI script writer for content creators
 - ⏰ **[Toki](https://github.com/medanielmarques/timer.tokitoki.app)** - Pomodoro timer with white noise
 - 📖 **[Manga DB](https://github.com/medanielmarques/mangadb)** - Open source manga database
-- 🥚 **[Egghead](https://github.com/medanielmarques/egghead)** - Quick Next.js app template
+- 🥚 **[Egghead](https://github.com/medanielmarques/egghead)** - Next.js app template
 - 🚢 **[Fail to ship](https://github.com/medanielmarques/failtoship.com)** - Bingo card for devs failing to ship
 - 👩🏾‍🍳 **[Poneglyph](https://github.com/medanielmarques/poneglyph)** - Restaurant table booking app
 - 👨‍⚖️ **[Cool Call](https://github.com/medanielmarques/coolcall-web-react-tsc)** - Government transparency platform
@@ -25,5 +25,5 @@
 ## Connect
 
 [![X](https://img.shields.io/badge/-@medanielmarques-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/medanielmarques)
-[![LinkedIn](https://img.shields.io/badge/-Daniel‎_Marques-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmarquesdev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmarquesdev)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/medanielmarques)
