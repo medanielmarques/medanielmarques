@@ -21,6 +21,7 @@
 - 👩🏾‍🍳 **[Poneglyph](https://github.com/medanielmarques/poneglyph)** - Restaurant table booking app
 - 👨‍⚖️ **[Cool Call](https://github.com/medanielmarques/coolcall-web-react-tsc)** - Government transparency platform
 - 💻 **[Codeglyph](https://github.com/medanielmarques/codeglyph)** - Duolingo-like app for learning how to code
+- 🎧 **[Playlist Syncer](https://github.com/medanielmarques/playlist-syncer-tauri)** - Youtube Playlist Syncer
 
 ## Connect
 
