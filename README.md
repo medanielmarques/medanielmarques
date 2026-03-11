@@ -19,6 +19,8 @@
 - 🥚 **[Egghead](https://github.com/medanielmarques/egghead)** - Quick Next.js app template
 - 🚢 **[Fail to ship](https://github.com/medanielmarques/failtoship.com)** - Bingo card for devs failing to ship
 - 👩🏾‍🍳 **[Poneglyph](https://github.com/medanielmarques/poneglyph)** - Restaurant table booking app
+- 👨‍⚖️ **[Cool Call](https://github.com/medanielmarques/coolcall-web-react-tsc)** - Government transparency platform
+- 💻 **[Codeglyph](https://github.com/medanielmarques/codeglyph)** - Duolingo-like app for learning how to code
 
 ## Connect
 
