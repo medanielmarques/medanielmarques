@@ -12,6 +12,7 @@
 - 🍓 **[Dealberry](https://dealberry.me)** - CRM for content creators
 - 🔎 **[Search Comments](https://search-comments.netlify.app)** - Search YouTube comments
 - 💼 **[danielmarqu.es](https://danielmarqu.es)** - Portfolio website
+- 🎵 **[Verse](https://github.com/medanielmarques/verse)** - Turn song lyrics into beautiful cards
 ### Legacy Work
 - ✍️ **[Epic Script](https://epicscript.ai)** - AI script writer for content creators
 - ⏰ **[Toki](https://github.com/medanielmarques/timer.tokitoki.app)** - Pomodoro timer with white noise
