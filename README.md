@@ -1,6 +1,8 @@
 # Hi, I'm Daniel 👋
 
-🇧🇷 **Based in Brazil** | 👨🏽‍💻 **Senior Software Engineer** | 🍓 **Building Dealberry**
+I'm currently building Dealberry, A CRM and deal workflow platform for content creators to manage, showcase, and close brand partnerships.
+
+I also have a software engineering background, having worked at companies such as The RealReal, a luxury resale marketplace with millions of users and at Tok&Stok, one of Brazil's largest furniture retailers.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=blue)
