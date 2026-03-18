@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-I'm a Senior Software Engineer (backend & frontend) coding since 2015, with 4+ years of experience building scalable products at high-growth companies like The RealReal, a US-based luxury resale marketplace serving millions of users, and at Tok&Stok, one of Brazil's largest furniture retailers. Expert in Typescript, React, AI Engineering and creating products that people love.
+**I'm a Senior Software Engineer (backend & frontend) coding since 2015, with 4+ years of experience** building scalable products at high-growth companies like The RealReal, a US-based luxury resale marketplace serving millions of users, and at Tok&Stok, one of Brazil's largest furniture retailers. Expert in Typescript, React, AI Engineering and creating products that people love.
 
 I'm currently building [Dealberry](https://dealberry.me), A CRM and deal workflow platform for content creators to manage, showcase, and close brand partnerships.
 
