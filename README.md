@@ -4,7 +4,7 @@ I'm a Senior Software Engineer (backend & frontend) coding since 2015, with 4+ y
 
 I'm currently building [Dealberry](https://dealberry.me), A CRM and deal workflow platform for content creators to manage, showcase, and close brand partnerships.
 
-Check my [resume](https://go.danielmarqu.es/resume)
+Check my [resume](https://go.danielmarqu.es/resume).
 
 ### Current Projects
 
