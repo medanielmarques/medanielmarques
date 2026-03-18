@@ -6,7 +6,7 @@ I'm currently building [Dealberry](https://dealberry.me), A CRM and deal workflo
 
 Check my [resume](https://go.danielmarqu.es/resume)
 
-## Current Projects
+### Current Projects
 
 - 🍓 **[Dealberry](https://dealberry.me)** - CRM for content creators
 - 🔎 **[Search Comments](https://search-comments.netlify.app)** - Search YouTube comments
