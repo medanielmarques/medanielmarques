@@ -1,13 +1,10 @@
 # Hi, I'm Daniel 👋
 
+I'm a Senior Software Engineer (backend & frontend) coding since 2015, with 4+ years of experience building scalable products at high-growth companies like The RealReal, a US-based luxury resale marketplace serving millions of users, and at Tok&Stok, one of Brazil's largest furniture retailers. Expert in Typescript, React, AI Engineering and creating products that people love.
+
 I'm currently building [Dealberry](https://dealberry.me), A CRM and deal workflow platform for content creators to manage, showcase, and close brand partnerships.
 
-I also have a software engineering background, having worked at companies such as [The RealReal](https://therealreal.com), a luxury resale marketplace with millions of users and at [Tok&Stok](https://tokstok.com.br), one of Brazil's largest furniture retailers.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=blue)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+Check my [resume](https://go.danielmarqu.es/resume)
 
 ## Current Projects
 
@@ -25,9 +22,3 @@ I also have a software engineering background, having worked at companies such a
 - 👨‍⚖️ **[Cool Call](https://github.com/medanielmarques/coolcall-web-react-tsc)** - Government transparency platform
 - 💻 **[Codeglyph](https://github.com/medanielmarques/codeglyph)** - Duolingo-like app for learning how to code
 - 🎧 **[Playlist Syncer](https://github.com/medanielmarques/playlist-syncer-tauri)** - Youtube Playlist Syncer
-
-## Connect
-
-[![X](https://img.shields.io/badge/-@medanielmarques-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/medanielmarques)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmarquesdev)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/medanielmarques)
