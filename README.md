@@ -9,9 +9,10 @@ Check my [resume](https://go.danielmarqu.es/resume).
 ### Current Projects
 
 - 🍓 **[Dealberry](https://dealberry.me)** - CRM for content creators
-- 🔎 **[Search Comments](https://search-comments.netlify.app)** - Search YouTube comments
+- 🎧 **[Playlist Syncer](https://github.com/medanielmarques/playlist-syncer)** - Youtube Playlist Syncer
 - 💼 **[danielmarqu.es](https://danielmarqu.es)** - Portfolio website
 - 🎵 **[Verse](https://verse-lyrics.vercel.app)** - Turn song lyrics into beautiful cards
+- 🔎 **[Search Comments](https://search-comments.netlify.app)** - Search YouTube comments
 ### Legacy Work
 - ✍️ **[Epic Script](https://epicscript.ai)** - AI script writer for content creators
 - ⏰ **[Toki](https://github.com/medanielmarques/timer.tokitoki.app)** - Pomodoro timer with white noise
@@ -21,4 +22,3 @@ Check my [resume](https://go.danielmarqu.es/resume).
 - 👩🏾‍🍳 **[Poneglyph](https://github.com/medanielmarques/poneglyph)** - Restaurant table booking app
 - 👨‍⚖️ **[Cool Call](https://github.com/medanielmarques/coolcall-web-react-tsc)** - Government transparency platform
 - 💻 **[Codeglyph](https://github.com/medanielmarques/codeglyph)** - Duolingo-like app for learning how to code
-- 🎧 **[Playlist Syncer](https://github.com/medanielmarques/playlist-syncer-tauri)** - Youtube Playlist Syncer
