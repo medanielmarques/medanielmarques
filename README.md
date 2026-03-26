@@ -9,7 +9,7 @@ Check my [resume](https://go.danielmarqu.es/resume).
 ### Current Projects
 
 - 🍓 **[Dealberry](https://dealberry.me)** - CRM for content creators
-- 🍓 **[No Upload PDF](https://nouploadpdf.co)** - Merge, split, and compress PDFs right on your desktop. No cloud. No waiting. No risk.
+- 📄 **[No Upload PDF](https://nouploadpdf.co)** - Merge, split, and compress PDFs right on your desktop. No cloud. No waiting. No risk.
 - 🎧 **[Playlist Syncer](https://github.com/medanielmarques/playlist-syncer)** - Youtube Playlist Syncer
 - 💼 **[danielmarqu.es](https://danielmarqu.es)** - Portfolio website
 - 🎵 **[Verse](https://verse-lyrics.vercel.app)** - Turn song lyrics into beautiful cards
