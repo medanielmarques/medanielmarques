@@ -11,8 +11,3 @@ Check my [resume](https://go.danielmarqu.es/resume).
 - 🔎 **[Search Comments](https://search-comments.netlify.app)** - Search YouTube comments
 - ✍️ **[Epic Script](https://epicscript.ai)** - AI script writer for content creators
 - ⏰ **[Toki](https://github.com/medanielmarques/timer.tokitoki.app)** - Pomodoro timer with white noise
-- 📖 **[Manga DB](https://github.com/medanielmarques/mangadb)** - Open source manga database
-- 🥚 **[Egghead](https://github.com/medanielmarques/egghead)** - Next.js app template
-- 👩🏾‍🍳 **[Poneglyph](https://github.com/medanielmarques/poneglyph)** - Restaurant table booking app
-- 👨‍⚖️ **[Cool Call](https://github.com/medanielmarques/coolcall-web-react-tsc)** - Government transparency platform
-- 💻 **[Codeglyph](https://github.com/medanielmarques/codeglyph)** - Duolingo-like app for learning how to code
