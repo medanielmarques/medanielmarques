@@ -5,7 +5,7 @@ Senior Software Engineer with 4+ years building scalable products at high-growth
 Check my [resume](https://go.danielmarqu.es/resume).
 
 ### Legacy Work
-- 📄 **[No Upload PDF](https://nouploadpdf.co)** - Merge, split, and compress PDFs right on your desktop. No cloud. No waiting. No risk.
+- 📄 **[No Upload PDF](https://nouploadpdf.co)** - Merge, split, and compress PDFs right on your desktop.
 - 🎧 **[Playlist Syncer](https://github.com/medanielmarques/playlist-syncer)** - Youtube Playlist Syncer
 - 🎵 **[Verse](https://verse-lyrics.vercel.app)** - Turn song lyrics into beautiful cards
 - 🔎 **[Search Comments](https://search-comments.netlify.app)** - Search YouTube comments
